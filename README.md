@@ -1,4 +1,4 @@
-# LAB-07-Passport-registration
+![image](https://github.com/user-attachments/assets/e55bfd02-bc78-4694-985b-c1e5bf4ff43a)# LAB-07-Passport-registration
 
 ### AIM-
 To study the problem statement, SRS document and draw all the UML diagrams of a
@@ -21,11 +21,30 @@ Star UML
 ### HARDWARE REQUIRMENTS:
 1. 512MB RAM2. Pentium III Processor
 
+## UML DIAGRAMS:
+
+# USE CASE DIAGRAM:
+![image](https://github.com/user-attachments/assets/5b03191e-0695-4091-8b28-bf730dffeb55)
 
 
+# CLASS DIAGRAM:
+![image](https://github.com/user-attachments/assets/0213dbb2-aa9e-45f4-93c3-f1ed3754a1b4)
 
 
+# SEQUENCE DIAGRAM:
+![image](https://github.com/user-attachments/assets/7b1a897f-7143-46df-8f6b-2be4c39b858b)
 
+
+# PACKAGE DIAGRAM:
+![image](https://github.com/user-attachments/assets/1b724886-b4ad-4755-8eb6-a6ffd12418e8)
+
+
+# COMMUNICATION DIAGRAM:
+![image](https://github.com/user-attachments/assets/a54796ed-27a5-4e86-94e1-e2b2851f2e4c)
+
+
+# ACTIVITY DIAGRAM:
+![image](https://github.com/user-attachments/assets/e8ab2ce2-d84f-4889-af86-60f721b564a1)
 
 ### RESULT:
 Thus the Passport Registration system project was executed and the output was verified.
