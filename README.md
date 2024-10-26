@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e55bfd02-bc78-4694-985b-c1e5bf4ff43a)# LAB-07-Passport-registration
+# LAB-07-Passport-registration
 
 ### AIM-
 To study the problem statement, SRS document and draw all the UML diagrams of a
